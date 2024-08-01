@@ -122,4 +122,3 @@ function preload(){
   raquetada = loadSound("raquetada.mp3");
  
 }
-
